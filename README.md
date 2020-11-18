@@ -1,3 +1,7 @@
+# 🚨🚨🚨🚨🚨🚨
+# This repo has been archived by Stripe. Einhorn is a key part of our infra now. 
+# Forking into our account, just in case
+
 # Einhorn: the language-independent shared socket manager
 
 ![Einhorn](https://stripe.com/img/blog/posts/meet-einhorn/einhorn.png)
